@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [The challenge](#the-challenge)
-- [How to run the development server](#run-dev)
+- [How to run the development server](#how-to-run-the-development-server)
 - [Built with](#built-with)
 
 ## The challenge
